@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">layoutProgrammatically</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+  <string name="message">Guess the Magic word:</string>
+    <string name="hint">write here</string>
+    <string name="btsubmit">submit</string>
+    <string name="btclear">clear</string>
+    <string name="resultheader">You Typed:</string>
+    <string name="emptymsg">Nothing entered</string>
+    <string name="successmsg">You Got It !!!</string>
+    <string name="tryagainmsg">Try again!</string>
+</resources>
