@@ -1,10 +1,29 @@
 # week07-UI
-# LayoutProgramatically
+associated apk's install from http://bit.ly/518droid
+## LayoutProgramatically
 Sample code dynamic creation of a UI 
-# UI-fromText
-## SampleLayoutActivity
+## UI-fromText
+### SampleLayoutActivity
 sample layouts from text book
-## ViewSampleActivity   
+### ViewSampleActivity   
 sample views from text book
-# UI-APorter
+## UI-APorter
 UI examples from Alan Porter a lot of simple examples
+UIAlertDialog
+UIAutoComplete
+UIButton
+UICheckBox
+UIDatePicker
+UIDatePickerFragment
+UIGallery
+UIGridLayout
+UIRadioGroup
+UIRatingsBar
+UISampler
+UISpinner
+UITabLayout
+UITimePicker
+UITimePickerFragment
+UIToggleButton
+UIViewPager
+UIWebView
